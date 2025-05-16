@@ -4,6 +4,8 @@
   width: 400px;
   height: 300px;
   display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .box {
@@ -17,5 +19,4 @@
 
 .box {
   flex: 0 0 80px;
-  margin: auto;
 }
